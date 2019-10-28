@@ -1,0 +1,10 @@
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.fsprojAssemblyReference.cache
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.fs
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb

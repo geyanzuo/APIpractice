@@ -1,0 +1,14 @@
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\bin\Debug\netcoreapp2.1\WebApp.deps.json
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.json
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\bin\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\bin\Debug\netcoreapp2.1\WebApp.pdb
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfo.cs
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb
+C:\Users\102146016\Documents\GitHub\APIpractice\WebAPI\WebApp\obj\Debug\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
